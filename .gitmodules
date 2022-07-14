@@ -4,3 +4,6 @@
 [submodule "proyectoFrontend"]
 	path = proyectoFrontend
 	url = ./proyectoFrontend
+[submodule "TP7-WebService-FrontEnd-Angular"]
+	path = TP7-WebService-FrontEnd-Angular
+	url = https://github.com/matiasard/TP7-WebService-FrontEnd-Angular

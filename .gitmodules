@@ -1,3 +1,6 @@
 [submodule "TP7-WebService-BackEnd-NodeJs"]
 	path = TP7-WebService-BackEnd-NodeJs
 	url = https://github.com/matiasard/TP7-WebService-BackEnd-NodeJs
+[submodule "proyectoFrontend"]
+	path = proyectoFrontend
+	url = ./proyectoFrontend
